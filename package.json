@@ -1,0 +1,23 @@
+{
+  "name": "mocha-testing",
+  "version": "1.0.0",
+  "description": "testing node with mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha './test/**/*.spec.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuttasakcom/mocha-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuttasakcom/mocha-testing/issues"
+  },
+  "homepage": "https://github.com/yuttasakcom/mocha-testing#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
